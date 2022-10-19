@@ -1,2 +1,3 @@
 hello laravel
-${{ telid }}
+env('telid')
+getenv('telid')
