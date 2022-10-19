@@ -1,5 +1,5 @@
 hello laravel
 "${telid}"
 "${{ telid }}"
-env('telid')
-getenv('telid')
+echo(env('telid'))
+echo(getenv('telid'))
