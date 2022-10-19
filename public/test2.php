@@ -1,7 +1,6 @@
 <?php
-hello laravel
-"${telid}"
-"${{ telid }}"
-echo(env('telid'))
-echo(getenv('telid'))
+echo（'hello laravel');
+
+echo(env('telid'));
+echo(getenv('telid'));
     ?>
