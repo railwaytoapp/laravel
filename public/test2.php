@@ -1,5 +1,5 @@
 <?php
 echo('hello laravel');
-$telid = env('telid');
+$telid = getenv('telid');
 echo($telid);
     ?>
